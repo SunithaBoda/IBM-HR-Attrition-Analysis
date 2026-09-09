@@ -9,11 +9,6 @@
 ![IBM HR Dashboard]([Employee_Attrition_Dashboard.png]https://github.com/SunithaBoda/IBM-HR-Attrition-Analysis/blob/main/Employee_Attrition_%20Dashboard.png)
 
 
-
-<p align="center">
-  <img src="[[Employee_Attrition_Dashboard.png](https://github.com/SunithaBoda/IBM-HR-Attrition-Analysis/blob/main/Employee_Attrition_%20Dashboard.png](https://github.com/SunithaBoda/IBM-HR-Attrition-Analysis/blob/main/Employee_Attrition_%20Dashboard.png))" alt="IBM HR Dashboard" width="100%">
-</p>
-
 ---
 
 ## Business Problem
