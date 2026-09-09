@@ -6,7 +6,7 @@
 
 # Dashboard Preview
 
-![IBM HR Dashboard].(Employee_Attrition_ Dashboard.png)
+![IBM HR Dashboard]([Employee_Attrition_ Dashboard.png](https://github.com/SunithaBoda/IBM-HR-Attrition-Analysis/blob/main/Employee_Attrition_%20Dashboard.png))
 
 ---
 
